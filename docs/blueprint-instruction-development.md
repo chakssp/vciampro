@@ -1,4 +1,4 @@
-TEMPLATE: Blueprint & Technical Guide: System State Synthesis & Recovery
+# TEMPLATE to use Refactor based on {{..\README.md}} : Blueprint & Technical Guide: System State Synthesis & Recovery
 Document ID: SSOT-AGENT-002
 Status: SYNTHESIZED & VALIDATED
 Target Audience:
